@@ -22,7 +22,7 @@ const Guest = () => {
                 <div class="modal-body">
                     You are a Guest user here.<br />
                     Please login to access this website. <br /><br />
-                    <button className='modal-login-button'><a href="/signin">Signin</a></button>
+                    {/* <button className='modal-login-button'><a href="/signin">Signin</a></button> */}
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
